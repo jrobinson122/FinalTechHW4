@@ -132,7 +132,7 @@
             <asp:Button ID="btnOrder" Text="Submit Order" runat="server" OnClick="btnOrder_Click" />
           </div>
         </form>
-      </div
+      </div>
           </div>
 
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>

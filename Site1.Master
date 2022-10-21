@@ -19,7 +19,7 @@
         <link rel="StyleSheet1.css" />
         <div class="header">
             <h1 style="color:#000000; margin-left: 360px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: xx-large; font-weight: bold;">Pet Med Tracking System</h1>
-            <img src="images/Pet%20Med%20System%20Pic.jpg" />
+            <img src="Pet Med System Pic.jpg" />
         </div>
         <div>
             <div style="display:flex; flex-direction:row;justify-content:space-around;width:25%;">

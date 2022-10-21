@@ -13,5 +13,10 @@ namespace FinalTechHW4
         {
 
         }
+
+        protected void btnOrder_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("OrderOverview.aspx");
+        }
     }
 }
